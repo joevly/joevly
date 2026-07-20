@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1C,50:0F3057,100:00D9FF&height=200&section=header&text=Evan&fontSize=60&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=Smart%20Contract%20Security%20Researcher&descAlignY=55&descSize=18&descColor=C9D1D9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1C,50:0F3057,100:00D9FF&height=200&section=header&text=Joev&fontSize=60&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=Smart%20Contract%20Security%20Researcher&descAlignY=55&descSize=18&descColor=C9D1D9" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Smart+Contract+Security+Researcher;Solidity+%2F+EVM+Internals;Bug+Bounty+%26+Competitive+Audits;Web3+Builder+%E2%80%94+Founder+in+Progress" alt="Typing SVG" />
