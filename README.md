@@ -35,8 +35,7 @@ I'm a Web3 Development focused on **smart contract security** that vulnerability
 **Languages**
 
 ![Solidity](https://img.shields.io/badge/Solidity-0A0F1C?style=for-the-badge&logo=solidity&logoColor=00D9FF)
-![Rust](https://img.shields.io/badge/Rust-0A0F1C?style=for-the-badge&logo=rust&logoColor=00D9FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0F1C?style=for-the-badge&logo=javascript&logoColor=00D9FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0F1C?style=for-the-badge&logo=typescript&logoColor=00D9FF)
 
 **Security & Testing**
 
@@ -48,7 +47,6 @@ I'm a Web3 Development focused on **smart contract security** that vulnerability
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-0A0F1C?style=for-the-badge&logo=git&logoColor=00D9FF)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0F1C?style=for-the-badge&logo=githubactions&logoColor=00D9FF)
 
 </div>
 
