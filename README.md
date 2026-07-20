@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1C,50:0F3057,100:00D9FF&height=200&section=header&text=Joev&fontSize=60&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=Smart%20Contract%20Security%20Researcher&descAlignY=55&descSize=18&descColor=C9D1D9" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Smart+Contract+Security+Researcher;Solidity+%2F+EVM+Internals;Bug+Bounty+%26+Competitive+Audits;Web3+Builder+%E2%80%94+Founder+in+Progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Smart+Contract+Security+Researcher;Solidity+%2F+EVM+Internals;Bug+Bounty+%26+Competitive+Audits;Web3+Builder" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,9 +12,7 @@
 
 ## About
 
-I'm a Web3 Development student focused on **smart contract security** — vulnerability analysis, static/dynamic testing, and Solidity internals. My path starts in security research (audits, bug bounty) as the foundation before moving into building protocols of my own.
-
-I care about resource-efficient, high-signal work: every line of code and every hour of research should compound toward a credible, verifiable track record.
+I'm a Web3 Development focused on **smart contract security** that vulnerability analysis, static/dynamic testing, and Solidity internals. My path starts in security research (audits, bug bounty).
 
 <br/>
 
@@ -75,7 +73,7 @@ I care about resource-efficient, high-signal work: every line of code and every 
 
 </div>
 
-> Auto-generated daily via GitHub Actions — see setup notes below.
+> Auto-generated daily via GitHub Actions and see setup notes below.
 
 <br/>
 
