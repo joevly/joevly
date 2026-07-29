@@ -52,17 +52,6 @@ I'm a Web3 Development focused on **smart contract security** that vulnerability
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-lac-nine.vercel.app/api?username=joevly&show_icons=true&hide_border=true&bg_color=0A0F1C&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joevly&hide_border=true&background=0A0F1C&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" width="48%" />
-
-</div>
-
-<br/>
-
 ## Contribution Activity
 
 <div align="center">
