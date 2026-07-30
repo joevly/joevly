@@ -68,7 +68,7 @@ I'm a Web3 Development focused on **smart contract security** that vulnerability
 
 <div align="center">
 
-<a href="https://x.com/joevly" target="_blank">
+<a href="https://x.com/Joevly7" target="_blank">
   <img src="https://img.shields.io/badge/X-0A0F1C?style=for-the-badge&logo=x&logoColor=00D9FF" />
 </a>
 <a href="https://www.linkedin.com/in/jonathan-evan-roestamadji" target="_blank">
